@@ -1,0 +1,5 @@
+require 'almanak/system_id'
+require 'almanak/contact'
+require 'almanak/gemeente'
+require 'almanak/organisatie'
+require 'almanak/overheidsorganisaties'
