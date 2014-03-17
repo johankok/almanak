@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    happymapper (0.4.1)
+      libxml-ruby (~> 2.0)
+    libxml-ruby (2.7.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  happymapper
